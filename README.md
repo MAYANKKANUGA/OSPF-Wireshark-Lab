@@ -7,7 +7,7 @@
 - Analyze OSPF, DHCP, and ICMP using Wireshark
 
 ## Tools Used
-- GNS3 / EVE-NG
+- GNS3
 - Cisco IOS
 - Wireshark
 
